@@ -1,0 +1,9 @@
+{
+  "name": "pagebook",
+  "version": "1.0.0",
+  "description": "Android application build helper",
+  "scripts": {
+    "build": "echo 'Android compilation is managed in background by the platform build engine. Building dummy web target successfully.'"
+  },
+  "dependencies": {}
+}

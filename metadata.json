@@ -1,0 +1,6 @@
+{
+  "name": "NABACHETNA",
+  "description": "A beautiful, highly interactive and feature-rich social application with premium Tea Leaf Green branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
